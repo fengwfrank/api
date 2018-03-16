@@ -1,0 +1,36 @@
+[
+	{
+		"name": "google",
+		"description": "Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware.",
+		"website": "https://www.google.com",
+		"founders": [
+			{
+				"first_name": "Larry",
+				"last_name": "Page"
+			},
+			{
+				"first_name": "Sergey",
+				"last_name": "Brin"
+			}
+		],
+		"founded_date": "19980904",
+		"founded_location": "Menlo Park, CA"
+	},
+	{
+		"name": "uber",
+		"description": "Uber Technologies Inc. is a peer-to-peer ridesharing, food delivery, and transportation network company headquartered in San Francisco, California, with operations in 633 cities worldwide.",
+		"website": "https://www.uber.com",
+		"founders": [
+			{
+				"first_name": "Travis",
+				"last_name": "Kalanick"
+			},
+			{
+				"first_name": "Garrett",
+				"last_name": "Camp"
+			}
+		],
+		"founded_date": "20090301",
+		"founded_location": "San Francisco, CA"
+	}
+]
